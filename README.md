@@ -43,6 +43,7 @@ Jika terlihat secara keseluruhan
 
 7. Hasil akhir akan menetukan bilangan terbesar dan terkecil
 
+![python bilangan hasil run](https://user-images.githubusercontent.com/37316835/52634333-897e4900-2ef9-11e9-85a2-7815e19957d6.png)
 
-
+Program yang anda buat berhasil dijalankan
 

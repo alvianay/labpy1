@@ -4,6 +4,7 @@ yolanda
 Program Sederhana untuk menentukan bilangan terbesar dari tiga buah bilangan
 1. buka python
 2. input kode seperti berikut
+
 ![python bilangan coding input](https://user-images.githubusercontent.com/37316835/52634002-9fd7d500-2ef8-11e9-8aa7-eff22ae92648.png)
 
 
@@ -26,4 +27,11 @@ perulangan
 ![python bilangan coding input](https://user-images.githubusercontent.com/37316835/52634304-75d2e280-2ef9-11e9-9bd4-a781ab697d90.png)
 
 Jika terlihat secara keseluruhan
+
+![python bilangan coding](https://user-images.githubusercontent.com/37316835/52634448-cfd3a800-2ef9-11e9-890e-559e6ae5c9ff.png)
+
+4.lalu jalan kan program tersebut
+5.maka akan muncul seperti ini
+
+
 

@@ -15,5 +15,10 @@ if digunakan bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan
 
 elif digunakan ketika kondisi tidak tercapai maka jalankan program
 
+![python bilangan coding elif](https://user-images.githubusercontent.com/37316835/52634120-f34a2300-2ef8-11e9-92b6-413fcc751f07.png)
 
+else digunakan ketika tidak ada satu kondisi yang terpenuhi maka jalankan program
 
+![python bilangan coding else](https://user-images.githubusercontent.com/37316835/52634121-f3e2b980-2ef8-11e9-9f5b-d3876c73410a.png)
+
+perulangan

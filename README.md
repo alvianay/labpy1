@@ -37,11 +37,11 @@ Jika terlihat secara keseluruhan
 
 ![bilangan awal run](https://user-images.githubusercontent.com/37316835/52635051-66ed2f80-2efb-11e9-83dc-5b176ace6078.png)
 
-6. input angka sesuai keinginan sampai bilangan ke-3 sesuai gambar yang di bawah ini
+6.input angka sesuai keinginan sampai bilangan ke-3 sesuai gambar yang di bawah ini
 
 ![python bilangan hasil run a](https://user-images.githubusercontent.com/37316835/52634336-8aaf7600-2ef9-11e9-8303-6c0554ffd423.png)
 
-7. Hasil akhir akan menetukan bilangan terbesar dan terkecil
+7.Hasil akhir akan menetukan bilangan terbesar dan terkecil
 
 ![python bilangan hasil run](https://user-images.githubusercontent.com/37316835/52634333-897e4900-2ef9-11e9-85a2-7815e19957d6.png)
 

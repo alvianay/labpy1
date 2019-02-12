@@ -22,3 +22,8 @@ else digunakan ketika tidak ada satu kondisi yang terpenuhi maka jalankan progra
 ![python bilangan coding else](https://user-images.githubusercontent.com/37316835/52634121-f3e2b980-2ef8-11e9-9f5b-d3876c73410a.png)
 
 perulangan
+
+![python bilangan coding input](https://user-images.githubusercontent.com/37316835/52634304-75d2e280-2ef9-11e9-9bd4-a781ab697d90.png)
+
+Jika terlihat secara keseluruhan
+

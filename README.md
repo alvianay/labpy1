@@ -31,11 +31,13 @@ Jika terlihat secara keseluruhan
 ![python bilangan coding](https://user-images.githubusercontent.com/37316835/52634448-cfd3a800-2ef9-11e9-890e-559e6ae5c9ff.png)
 
 4.lalu jalan kan program tersebut
+
 5.maka akan muncul seperti ini
 
-![bilangan awal run](https://user-images.githubusercontent.com/37316835/52634823-c860ce80-2efa-11e9-9d1a-51e276df8c40.png)
 
 6. input angka sesuai keinginan sampai bilangan ke-3 sesuai gambar yang di bawah ini
+
+![python bilangan hasil run a](https://user-images.githubusercontent.com/37316835/52634336-8aaf7600-2ef9-11e9-8303-6c0554ffd423.png)
 
 
 

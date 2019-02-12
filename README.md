@@ -27,7 +27,7 @@ perulangan
 
 ![python bilangan coding input](https://user-images.githubusercontent.com/37316835/52634304-75d2e280-2ef9-11e9-9bd4-a781ab697d90.png)
 
-Jika terlihat secara keseluruhan
+Jika terlihat secara keseluruhan input kodenya
 
 ![python bilangan coding](https://user-images.githubusercontent.com/37316835/52634448-cfd3a800-2ef9-11e9-890e-559e6ae5c9ff.png)
 
